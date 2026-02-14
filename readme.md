@@ -1,3 +1,9 @@
+## Flash
+
+```bash
+qmk flash -c -e CONVERT_TO=kb2040 -kb horizon -km x86
+```
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
